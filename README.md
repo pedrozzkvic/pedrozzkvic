@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @pedrozzkvic  
-- 👀 I’m interested in learn and gain experiences
-- 🌱 I’m currently learning computer engineering
-- 💞️ I’m looking to collaborate on web developer full-stack or IA
-- 📫 How to reach me: my instagram and X (twitter) is @pedrozzkvic or if prefer my gmail is pedro.victor2503@gmail.com
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: i love football( or soccer if prefer )
+Hello! I'm Pedro Victor.
 
-<!---
-pedrozzkvic/pedrozzkvic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im brazilian
+
+I am studying my first year of computer engineering and I speak Portuguese,Spanish and English.
+ 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrozzkvic/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-victor-6a0490317/)
+
+![Pedrozzkvic GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozzkvic&show_icons=true&theme=dark)
+
+   
