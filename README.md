@@ -9,4 +9,8 @@ I am studying my first year of computer engineering and I speak Portuguese,Spani
 
 ![Pedrozzkvic GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozzkvic&show_icons=true&theme=dark)
 
+
+Email:
+pedro.victor2503@gmail.com
+
    
