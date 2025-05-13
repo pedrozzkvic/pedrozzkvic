@@ -7,8 +7,4 @@ fds
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozzkvic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-Email:
-pedro.victor2503@gmail.com
-
    
